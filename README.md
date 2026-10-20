@@ -28,6 +28,7 @@
 ### 🛠 Tech Stack
 
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,nestjs,nodejs,py,postgres,mysql,supabase,wordpress,docker,git,github,figma,ps&perline=10" alt="Tech stack" />
   <img src="logos_html-5.svg" width="48" height="48" alt="HTML5" />
   <img src="devicon_css3-wordmark.svg" width="48" height="48" alt="CSS3" />
   <img src="jsic.svg" width="48" height="48" alt="JavaScript" />
